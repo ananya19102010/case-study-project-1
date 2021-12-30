@@ -1,0 +1,12 @@
+h3{
+    text-align: center;
+    background-color:aqua;
+    margin-top: 0;
+}
+
+.test_image_and_result {
+    border: 1px solid;
+    padding: 5px;
+    box-shadow: 4px 10px 18px rgb(186, 186, 245);
+    margin-top: 20;
+}
